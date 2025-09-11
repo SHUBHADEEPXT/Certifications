@@ -99,9 +99,9 @@
 
 ## 📸 Screenshots (Mini-Tests & Practice)
 
-| Test         | Screenshot | Notes                                     |
-|--------------|------------|-------------------------------------------|
-| Mini-Test 1  | (add img)  | Focused on AI vs AGI differences          |
-| Results      | (add img)  | ✅ Passed with 100%                       |
+| Test         | Screenshot    | Notes                                     |
+|--------------|---------------|-------------------------------------------|
+| Mini-Test 1  | mini-test-01  | Focused on AI vs AGI differences          |
+| Results      | questions     | ✅ Passed with 100%                       |
 
 ---

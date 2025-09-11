@@ -137,9 +137,9 @@ OCI Tie-in:
 
 ## 📸 Screenshots (Mini-Tests & Practice)
 
-| Test        | Screenshot | Notes                                      |
-|-------------|------------|--------------------------------------------|
-| Quiz 1      | (add img)  | History & evolution of deep learning        |
-| Results     | (add img)  | ✅ Model accuracy improved with more neurons |
+| Test        | Screenshot    | Notes                                      |
+|-------------|---------------|--------------------------------------------|
+| Quiz 1      | mini-test-03  | History & evolution of deep learning       |
+| Results     | questions     | ✅ Passed with 100%                        |
 
 ---
