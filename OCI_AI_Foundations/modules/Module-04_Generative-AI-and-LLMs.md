@@ -116,11 +116,12 @@ A subset of deep learning that **creates new content** (text, code, images, audi
 
 ## 📸 Screenshots (Mini-Tests & Practice)
 
-| Test / Demo            | Screenshot    | Notes                                                                 |
-|------------------------|---------------|-----------------------------------------------------------------------|
-| GenAI vs ML quiz       | mini-test-04  | Generation vs classification; unlabeled pre-training vs labeled ML    |
-| MindMap                | mind-map      | Enitre map of this module                                             |
-| Mini-Test-Questions    | questions     | Practice test questions                                               |
+| Test / Demo            | Screenshot       | Notes                                                                 |
+|------------------------|------------------|-----------------------------------------------------------------------|
+| GenAI vs ML quiz       | mini-test-04-01  | ❌ Failed - 60%                                                       |
+| GenAI vs ML quiz       | mini-test-04-02  | ✅ Passed with 100%                                                   |
+| MindMap                | mind-map         | Enitre map of this module                                             |
+| Mini-Test-Questions    | questions        | Practice test questions                                               |
 
 ---
 
