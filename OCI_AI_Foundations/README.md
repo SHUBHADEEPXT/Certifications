@@ -58,9 +58,48 @@ Each module is documented using the following structure:
 
 ---
 
-## 🎯 End Goal
 
-- Pass OCI AI Foundations certification.
-- Build intermediate-level AIOps skills (not just beginner).
-- Have public notes + projects recruiters can view.
-- Use this as a foundation for OCI Generative AI Professional & multi-cloud AI tools
+## 📚 Practice Test
+I began with the official practice test to evaluate my baseline understanding of AI/ML/DL concepts, OCI AI Services, and Responsible AI.  
+- **Status:** ✅ Passed  
+- **Score:** 70%  
+- **Passing Score:** 65%  
+- **Screenshots:** [View Here](../screenshots/practice-test/)  
+- **Questions:** [View Here](../screenshots/Practice_Test_Questions/)  
+
+This step helped identify weak areas (e.g., Responsible AI, Vector Databases) that I reinforced before the final exam.
+
+---
+
+## 🎯 Final Exam
+After structured study and module-wise notes, I appeared for the official Oracle exam.  
+- **Certification Code:** `1Z0-1122-25`  
+- **Title:** Oracle Cloud Infrastructure 2025 AI Foundations Associate  
+- **Status:** 🟢 Passed  
+- **Score:** **98%** (Passing Score: 65%)  
+- **Screenshots:** [View Here](../screenshots/final-exam/)  
+
+---
+
+##  ✅ Key Takeaways
+- Strong grounding in **AI vs ML vs DL fundamentals**.  
+- Hands-on knowledge of **OCI AI Services** (Language, Vision, Speech, Document Understanding, Generative AI).  
+- Understanding of **OCI Data Science workflow** and **AI infrastructure (GPUs, RDMA Superclusters)**.  
+- Emphasis on **Responsible & Ethical AI** principles.  
+- Practical exposure to **Vector Search** and **Select AI for natural language SQL**.  
+
+---
+
+## 📂 Repo Structure
+```
+├── modules/ # Module-wise notes
+├── screenshots/
+│ ├── practice-test/ # Practice test screenshots
+│ └── final-exam/ # Final exam screenshots
+├── README.md # This file
+```
+
+---
+
+## 🏅 Certification Badge
+*(https://catalog-education.oracle.com/pls/certview/sharebadge?id=1980DEFA9EAE1AE511A98C13AB904B054BCB87E8170C43413E9D2D6DBB95AE4D)*  
