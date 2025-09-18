@@ -26,7 +26,6 @@ Certifications/
 ## 🚀 Roadmap
 
 - [ ] DevOps Professional 2025 (on the way)  
-- [ ] AWS Solutions Architect (planned)  
 - [ ] AWS Solutions Architect Associate (planned)  
 - [ ] Google Cloud Professional Cloud Architect (planned)  
 - [ ] Certified Kubernetes Administrator (CKA) (planned)  
